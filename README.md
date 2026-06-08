@@ -90,3 +90,6 @@ Google Drive (Colab) or a Kaggle Dataset (Kaggle).
 
 Educational project. Corpus credit: [IITB parallel corpus](https://huggingface.co/datasets/cfilt/iitb-english-hindi).
 Tokenizer: SentencePiece. Metrics: sacrebleu. Pair filtering: LaBSE.
+
+
+Note for myself: model available on Kaggle.
